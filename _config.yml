@@ -28,7 +28,8 @@ twitter_username: reneefornow
 github_username:  rk-osbourne
 
 # Build settings
-theme: minimal
+markdown: kramdown
+theme: minima
 
 plugins:
   - jekyll-feed
