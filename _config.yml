@@ -29,8 +29,8 @@ github_username:  rk-osbourne
 
 # Build settings
 =======
-theme: jekyll-theme-cayman
->>>>>>> 50197a3659e8071aa29467ba6c0286de23062331
+theme: minima
+
 plugins:
   - jekyll-feed
 
