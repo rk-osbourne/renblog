@@ -28,7 +28,7 @@ twitter_username: reneefornow
 github_username:  rk-osbourne
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
