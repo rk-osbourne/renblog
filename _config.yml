@@ -29,9 +29,9 @@ github_username:  rk-osbourne
 
 # Build settings
 markdown: kramdown
-remote_theme: minima
+theme: minima
 
-plugins:
+gems:
   - jekyll-feed
 
 # Exclude from processing.
