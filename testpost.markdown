@@ -4,15 +4,10 @@ title: TEST
 permalink: /testpost/
 ---
 
-ENTERING TEST TEXT HERE.
+## This is a heading.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+THIS *IS* TESTING TEXT. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Say that fast four times.
 
 
-[jekyll-organization]: https://github.com/jekyll
