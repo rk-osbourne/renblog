@@ -20,8 +20,7 @@
 
 title: Ren's Den ;)
 email: reneeosbourne@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-Welcome to Ren's Den. I'll probably change this later. Or not. 
+description: Welcome to Ren's Den. I'll probably change this later. Or not.  # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://reneeosbourne.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: reneefornow
