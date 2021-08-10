@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Editing from Terminal.  Test.
+Hi, I'm Renee. I'm transitioning to cybersecurity and using this website to document some of the journey. 
