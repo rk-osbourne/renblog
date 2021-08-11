@@ -31,6 +31,9 @@ linkedin: www.linkedin.com/in/reneeosbourne
 markdown: kramdown
 theme: minima
 
+# Google Analytics
+google_analytics: G-RFJ9ZQJPNK
+
 plugins:
   - jekyll-feed
 
