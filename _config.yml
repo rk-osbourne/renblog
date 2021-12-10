@@ -29,10 +29,8 @@ linkedin: www.linkedin.com/in/reneeosbourne
 
 # Build settings
 markdown: kramdown
-remote_theme: benbalter/retlab
+theme: minima
 
-# Google Analytics
-google_analytics: G-RFJ9ZQJPNK
 
 plugins:
   - jekyll-feed
