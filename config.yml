@@ -8,6 +8,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+publishDir: "docs"
 
 googleAnalytics: G-RFJ9ZQJPNK
 
@@ -42,7 +43,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-
+  
   #assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -51,9 +52,6 @@ params:
     #favicon32x32: "/favicon-32x32.png"
     #apple_touch_icon: "/apple-touch-icon.png"
     #safari_pinned_tab: "<link / abs url>"
-    
-
-
 
   label:
     text: "Home"
